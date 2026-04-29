@@ -3,11 +3,16 @@
 This analysis explores user behaviour across the funnel, evaluates marketing channel performance, and identifies key revenue drivers. The goal is simple: optimise conversions, reduce wasted spend, and scale what works.
 
 🔄 Funnel Performance
+
 Page View      ███████████████████████████ 100%
-Add to Cart    ██████████████░░░░░░░░░░░░  ~50–60%
-Checkout       ███████████░░░░░░░░░░░░░░░  ~40–50%
-Payment Info   ██████████░░░░░░░░░░░░░░░░
-Purchase       █████████░░░░░░░░░░░░░░░░░  ~80% from checkout
+
+Add to Cart    █████████████ ~50–60%
+
+Checkout       ███████████ ~40–50%
+
+Payment Info   ██████████
+
+Purchase       █████████  ~80% from checkout
 
 🔍 Key Insight
 The Checkout → Purchase conversion (~80%+) is extremely strong 👉 This indicates a frictionless payment experience
